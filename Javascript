@@ -1,0 +1,11 @@
+const person = {
+  name: ' John Doe ',
+  age: 30,
+  country: ' United States '
+};
+
+const { name, age, country } = person;
+
+console.log("name"); 
+console.log(age);
+console.log("country"); 
